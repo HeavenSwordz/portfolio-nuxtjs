@@ -7,6 +7,7 @@
       height="254"
       alt="A picture of me"
     />
+
     <h1 class="title">
       Laurent Bourget
     </h1>
@@ -92,7 +93,6 @@
         </p>
       </div>
     </div>
-    </nuxtpicture>
   </div>
 </template>
 
