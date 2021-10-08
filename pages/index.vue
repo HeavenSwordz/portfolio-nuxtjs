@@ -101,6 +101,10 @@ export default {}
 </script>
 
 <style>
+.hero {
+  border-radius: 50%;
+}
+
 .index {
   flex: 1;
   display: flex;
