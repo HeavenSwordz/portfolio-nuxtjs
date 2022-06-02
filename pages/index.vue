@@ -103,6 +103,8 @@ export default {}
 <style>
 .hero {
   border-radius: 50%;
+  overflow: hidden;
+  display: flex;
 }
 
 .index {
