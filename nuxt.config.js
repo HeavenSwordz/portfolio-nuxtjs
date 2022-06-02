@@ -47,14 +47,3 @@ export default {
   build: {
   }
 }
-
-/*
-TEST IN FIREBASE.JSON AFTER IGNORE:
-"headers": [{
-  "source" : "**",
-  "headers" : [{
-    "key" : "Cache-Control",
-    "value" : "max-age=31536000"
-  }]
-}]
-*/
